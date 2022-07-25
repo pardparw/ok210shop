@@ -33,7 +33,7 @@
           <div class="u-custom-menu u-nav-container">
             <ul class="u-nav u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="index.html" style="padding: 10px 20px;">Home</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="https://discord.com/api/oauth2/authorize?client_id=865808924472377374&amp;permissions=1644971949303&amp;scope=bot%20applications.commands" style="padding: 10px 20px;">invite</a>
-</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="wiki.html" target="_blank" style="padding: 10px 20px;">wiki</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="wiki.php" target="_blank" style="padding: 10px 20px;">wiki</a>
 </li><li class="u-nav-item"><a class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="https://discord.gg/WsDtjhBjCV" target="_blank" style="padding: 10px 20px;">Server</a>
 </li></ul>
           </div>
@@ -69,7 +69,7 @@
               </div>
             </div>
             <div class="u-align-center u-container-style u-list-item u-repeater-item u-white">
-              <div class="u-container-layout u-similar-container u-container-layout-3"><span class="u-file-icon u-icon u-icon-3" data-href="wiki.html"><img src="https://cdn.discordapp.com/attachments/902472433062273046/1001110810258571324/Wikipedia-logo-v2.svg.png" alt=""></span>
+              <div class="u-container-layout u-similar-container u-container-layout-3"><span class="u-file-icon u-icon u-icon-3" data-href="wiki.php"><img src="https://cdn.discordapp.com/attachments/902472433062273046/1001110810258571324/Wikipedia-logo-v2.svg.png" alt=""></span>
                 <h5 class="u-text u-text-5">Wiki</h5>
               </div>
             </div>
